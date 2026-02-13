@@ -1,0 +1,7 @@
+data/
+__pycache__/
+*.pyc
+uploads/
+models/best_model.pth.old
+.env
+.vscode/
